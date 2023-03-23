@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060759701784",
+    "project_id": "otoritas-rad",
+    "storage_bucket": "otoritas-rad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060759701784:android:fdfe46e875c635e03c766d",
+        "android_client_info": {
+          "package_name": "com.radiologi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060759701784-9rn6f2ju6b354rvfeotplb96tk2gdga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzMB9ngaDdwr65YQxlLQ2s1WGDs64WNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060759701784-9rn6f2ju6b354rvfeotplb96tk2gdga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
